@@ -1,27 +1,13 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
 
-## Our Goal
+EggTimer is a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. There are three way of boiling eggs. Soft, Medium and Hard. You can choose whatever you want.
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+<br />
 
-## What You'll Make
+<img height="500" alt="screenshot1" src="https://user-images.githubusercontent.com/39920490/79584462-6658b600-8109-11ea-89e3-9f9c49238587.png">
 
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+<img height="500" alt="screenshot2" src="https://user-images.githubusercontent.com/39920490/79584572-8a1bfc00-8109-11ea-9a39-8e5915caf0dd.png">
 
-## What you will learn
+<br />
 
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+This app is from The Complete iOS App Development Bootcamp by App Brewery.
